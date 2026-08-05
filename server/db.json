@@ -1,0 +1,12 @@
+{
+  "products": [
+    { "id": "p1", "name": "Aura Batik Shirt", "type": "Men's Shirts", "price": 4850, "seed": "ceylon-batik-shirt", "blurb": "Hand-blocked batik cotton, cut loose for warm evenings." },
+    { "id": "p2", "name": "Monsoon Linen Dress", "type": "Women's Dresses", "price": 6200, "seed": "ceylon-linen-dress", "blurb": "Washed linen that drapes like the first rain of the season." },
+    { "id": "p3", "name": "Highland Wrap Blouse", "type": "Women's Tops", "price": 3450, "seed": "ceylon-wrap-blouse", "blurb": "A soft wrap silhouette in breathable handloom cotton." },
+    { "id": "p4", "name": "Cinnamon Sarong Skirt", "type": "Resort Wear", "price": 3900, "seed": "ceylon-sarong-skirt", "blurb": "Sarong-inspired wrap skirt, dip-dyed in warm cinnamon tones." },
+    { "id": "p5", "name": "Cloud Kaftan", "type": "Kaftans", "price": 5500, "seed": "ceylon-kaftan", "blurb": "Oversized kaftan in featherlight voile, made for slow mornings." },
+    { "id": "p6", "name": "Spice Route Jacket", "type": "Unisex Outerwear", "price": 8900, "seed": "ceylon-linen-jacket", "blurb": "Unstructured linen jacket, the one piece that layers with everything." }
+  ],
+  "orders": [],
+  "subscribers": []
+}
